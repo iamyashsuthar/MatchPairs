@@ -14,7 +14,6 @@ Instructor: Dr. Sabah Mohammed
 | **Min SDK** | API 24 (Android 7.0 Nougat) |
 | **Target SDK** | API 36 |
 | **Flutter Version** | 3.x (Dart SDK ^3.12.0) |
-| **GitHub** | https://github.com/ |
 
 ---
 
