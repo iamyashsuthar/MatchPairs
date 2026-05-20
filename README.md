@@ -125,15 +125,15 @@ No third-party pub packages are required.
 
 | Menu Screen | Beginner (4×3) |
 |:---:|:---:|
-| ![Menu](screenshots/hp_home.png) | ![Beginner](screenshots/hp_beg.png) |
+| ![Menu](hp_home.png) | ![Beginner](hp_beg.png) |
 
 | Intermediate (4×5) | Advanced (6×6) |
 |:---:|:---:|
-| ![Intermediate](screenshots/hp_inter.png) | ![Advanced](screenshots/hp_adv.png) |
+| ![Intermediate](hp_inter.png) | ![Advanced](hp_adv.png) |
 
 | Win Screen |
 |:---:|
-| ![Win](screenshots/hp_score.png) |
+| ![Win](hp_score.png) |
 
 ---
 
